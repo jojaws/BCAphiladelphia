@@ -1,0 +1,1049 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html style="overflow-y: hidden;">
+<head>
+	<title>You&#39;ve been personally invited</title>
+	
+	<style type="text/css">@font-face {font-family: 'Guardian Egyptian';    font-style: normal;    font-weight: 400;    src: url(https://www.aexp-static.com/cdaas/one/statics/axp-static-assets/2.2.0/package/dist/fonts/guardianregular.woff2) format('woff2');}
+	@font-face {font-family: 'BentonSans';    font-style: normal;    font-weight: 300;    src: url(https://www.aexp-static.com/cdaas/one/statics/axp-static-assets/2.15.1/package/dist/fonts/325e6ad0-38fb-4bad-861c-d965eab101d5-3.woff) format('woff');}
+		*{
+			margin:0;
+			padding:0;
+			font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+		}
+		body{
+			background-color:#D9D9D6;
+			width:100%;
+		}
+		table{
+			mso-table-lspace:0;
+			mso-table-rspace:0;
+		}
+		.body{
+			word-wrap:normal;
+			word-spacing:normal;
+		}
+		div[style*=margin: 16px 0]{
+			margin:0 !important;
+		}
+		th{
+			font-weight:normal !important;
+		}
+		ol,ul{
+			list-style-position:outside;
+			margin-left:14px;
+			padding:0;
+		}
+		li{
+			display:list-item;
+			text-align:-webkit-match-parent;
+			padding-bottom:7px;
+		}
+		h1,h2,h3{
+			font-weight:normal;
+		}
+		.link:hover{
+			text-decoration:underline !important;
+		}
+		[class^=button]{
+			transition:all .2s ease-in-out !important;
+		}
+		.button-primary-light:hover{
+			background-color:#0061B6 !important;
+		}
+		.button-primary-dark:hover{
+			background-color:rgba(255, 255, 255, 0.90) !important;
+		}
+		.button-secondary-light:hover{
+			background-color:#f2f2f2 !important;
+		}
+		.button-secondary-dark:hover{
+			background-color:rgba(0, 0, 0, 0.05) !important;
+		}
+		.button-tertiary:hover{
+			background-color:rgba(0, 0, 0, .05) !important;
+		}
+		#MessageViewBody,#MessageWebViewDiv{
+			min-width:100vw;
+			margin:0 !important;
+			zoom:1 !important;
+			width:100% !important;
+		}
+		a[x-apple-data-detectors]{
+			color:inherit !important;
+			text-decoration:none !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+		}
+		#MessageViewBody a{
+			color:inherit !important;
+			font-size:inherit !important;
+			font-family:inherit !important;
+			font-weight:inherit !important;
+			line-height:inherit !important;
+			text-decoration:none !important;
+		}
+		u+.body a{
+			color:inherit;
+			text-decoration:none;
+			font-size:inherit;
+			font-weight:inherit;
+			line-height:inherit;
+		}
+		span.MsoHyperlink{
+			color:inherit !important;
+			mso-style-priority:99 !important;
+		}
+		span.MsoHyperlinkFollowed{
+			color:inherit !important;
+			mso-style-priority:99 !important;
+		}
+	@media only screen and (max-width: 619px){
+		h1{
+			font-size:22px !important;
+			line-height:28px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.background-grey{
+			background:#ffffff !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.show-desktop{
+			display:none !important;
+			font-size:0 !important;
+			max-height:0 !important;
+			line-height:0 !important;
+			mso-hide:all !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.center-align,.center-align-table table,.center-button table{
+			margin:0 auto !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.center-text{
+			text-align:center !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.container{
+			padding:0 !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.wrapper{
+			margin:0 auto;
+			width:100% !important;
+			max-width:619px !important;
+			min-width:310px !important;
+			padding:0 !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.full-width{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.full-width-img,.full-width-img img{
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.full-width-auto{
+			width:auto !important;
+			display:block !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.full-width-block,.cell-display-mobile{
+			width:100% !important;
+			display:block !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.half-width-block{
+			width:50% !important;
+			display:inline-block !important;
+			vertical-align:top;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.height-auto{
+			height:auto !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.underline-none{
+			text-decoration:none !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.hero-button{
+			width:230px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.txtleft{
+			text-align:left !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-off{
+			display:none !important;
+			height:0px !important;
+			width:0px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-on,.mobile-display-block{
+			display:block !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.pd0{
+			padding:0 !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.pd10{
+			padding:10px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.padding-btm-10{
+			padding-bottom:10px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.pd20{
+			padding:20px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.pd40{
+			padding:40px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.padding-btm-20{
+			padding-bottom:20px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.pdbtm0{
+			padding-bottom:0px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.pdbtm30{
+			padding-bottom:30px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.padding-btm-40{
+			padding-bottom:40px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.pdtop20{
+			padding-top:20px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.pdtop40{
+			padding-top:40px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobpad{
+			padding-left:40px !important;
+			padding-right:40px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.spacer-40{
+			font-size:40px !important;
+			height:40px !important;
+			line-height:40px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.section-inner-diver{
+			width:50% !important;
+			white-space:normal !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.ph-text{
+			font-size:12px !important;
+			line-height:16px !important;
+			text-align:center !important;
+			padding:0 !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.bp-logo{
+			width:45px !important;
+			height:45px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.bp-login-button{
+			padding:10px 0 12px !important;
+			width:66px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.bp-text{
+			font-size:14px !important;
+			line-height:18px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.bp02-card{
+			width:65px !important;
+			height:40px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.hb10-card-art-container{
+			height:147px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.hb10-card-art{
+			width:auto !important;
+			height:122px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.hb-12-headline{
+			font-size:24px !important;
+			line-height:32px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.im07a-background-image-mobile{
+			background:url(https://image.member.americanexpress.com/lib/fe2b11717d640479721c73/m/1/81956_im07a-mobile-background.png') top center / auto no-repeat !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.tm12-padding,.fm-nav-link{
+			padding:15px 0 !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.tm-border{
+			border-top:1px solid #fff !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.tm15a-padding{
+			padding:0 40px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.tm-gutter{
+			height:0 !important;
+			max-height:0 !important;
+			display:none !important;
+			line-height:0 !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.tm-heading{
+			clear:left !important;
+			display:block !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.fm-border{
+			border-top:1px solid #EFEFEF !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.fm-cross-container{
+			padding:33px 0 8px !important;
+		}
+
+}		.mobile-img-roundedtop,img.mobile-img-roundedtop{
+			-webkit-border-top-left-radius:10px !important;
+			-webkit-border-top-right-radius:10px !important;
+			-moz-border-radius-topleft:10px !important;
+			-moz-border-radius-topright:10px !important;
+			border-top-left-radius:10px !important;
+			border-top-right-radius:10px !important;
+		}
+		.button-darkblue:hover{
+			background-color:#001e73 !important;
+		}
+		.comcast-bug-fix th{
+			margin:0 !important;
+			padding:0 !important;
+			-webkit-box-sizing:border-box;
+			-moz-box-sizing:border-box;
+			box-sizing:border-box;
+		}
+		.comcast-bug-fix th td{
+			-webkit-box-sizing:border-box;
+			-moz-box-sizing:border-box;
+			box-sizing:border-box;
+		}
+		.comcast-center-fix img{
+			align-content:center !important;
+			display:inline-block !important;
+		}
+	@media only screen and (max-width: 619px){
+		html,body,#MessageViewBody,#MessageWebViewDiv,body .container,#MessageViewBody .container,#MessageWebViewDiv .container{
+			min-width:100vw !important;
+			margin:0 auto !important;
+			zoom:1 !important;
+			width:100% !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.hide_for_mobile,.hide_for_mobile img{
+			display:none!important;
+			position:fixed!important;
+			visibility:hidden!important;
+			height:0!important;
+			width:0!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.show_for_mobile,.show_for_mobile img{
+			display:block!important;
+			width:100%!important;
+			height:auto!important;
+			overflow:visible!important;
+			position:static!important;
+			min-height:0px!important;
+			line-height:normal!important;
+			font-size:medium!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-bg-white{
+			background-color:#ffffff!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-centered{
+			text-align:center!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-centered-button{
+			text-align:center!important;
+			margin:auto!important;
+			display:grid!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-L0{
+			padding-left:0px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-L10{
+			padding-left:10px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-L15{
+			padding-left:15px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-L20{
+			padding-left:20px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-T0{
+			padding-top:0px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-T40{
+			padding-top:40px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-R0{
+			padding-right:0px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-R10{
+			padding-right:10px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-R15{
+			padding-right:15px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-R20{
+			padding-right:20px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-R40{
+			padding-right:40px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-L30R30{
+			padding-right:30px!important;
+			padding-left:30px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-B30{
+			padding-bottom:30px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-padding-T0B0{
+			padding-bottom:0px!important;
+			padding-top:0px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-header{
+			text-align:center!important;
+			font-size:40px!important;
+			line-height:46px!important;
+			padding-left:10px!important;
+			padding-right:30px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-width-280{
+			width:280px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-width-204{
+			width:204px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-height-90{
+			height:90px!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-height-auto{
+			height:auto!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-center-txt{
+			text-align:center!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-nodesktop-bkg{
+			background-image:none !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-hide-br{
+			display:none;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-align-top,td.mobile-align-top{
+			vertical-align:text-top !important;
+			background-color:pink !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-flourish-bkg{
+			background-size:700px !important;
+			background-position:left bottom !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-border-none{
+			border:none !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobile-border-bottom{
+			border-bottom:solid 1px #4d9add;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobilePanelOneBackgroundSwap,#MessageViewBody .mobilePanelOneBackgroundSwap,#MessageWebViewDiv .mobilePanelOneBackgroundSwap{
+			background:url('https://s3.amazonaws.com/bcaphiladelphia.com/wp-content/uploads/2022/12/22101105/panel1-mobile-swap.png')!important;
+			background-size:100% auto!important;
+			background-position:center bottom !important;
+			background-repeat:no-repeat !important;
+			padding:0!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobilePanelOneContent{
+			width:100%!important;
+			text-align:center !important;
+			border:solid 0px aqua;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobilePanelOneContentLastPanel{
+			padding-bottom:370px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobilePanelContentLandRpadding{
+			padding-left:30px !important;
+			padding-right:30px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobilePanelFiveBackgroundSwap,#MessageViewBody .mobilePanelFiveBackgroundSwap,#MessageWebViewDiv .mobilePanelFiveBackgroundSwap{
+		
+
+ /*BKG IMAGES PANELS ADD MOBILE SWAP IMAGE*/
+ /**/
+.mobilePanelOneBackgroundSwap,
+#MessageViewBody .mobilePanelOneBackgroundSwap,
+#MessageWebViewDiv .mobilePanelOneBackgroundSwap{
+    background: url('https://s3.amazonaws.com/bcaphiladelphia.com/wp-content/uploads/2022/12/22101105/panel1-mobile-swap.png')!important;
+    background-size: 100% auto!important;
+    background-position: center bottom !important;
+    background-repeat: no-repeat !important;
+    padding: 0!important;
+}
+.mobilePanelOneContent {
+    width: 100%!important;
+    
+    text-align: center !important;
+ 
+ border: solid 0px aqua;
+ 
+}
+.mobilePanelOneContentLastPanel {
+    padding-bottom: 370px !important;
+ 
+}
+ 
+.mobilePanelContentLandRpadding{
+ padding-left: 30px !important; 
+  padding-right: 30px !important; 
+  
+ }
+ 
+ .mobilePanelFiveBackgroundSwap,
+#MessageViewBody .mobilePanelFiveBackgroundSwap,
+#MessageWebViewDiv .mobilePanelFiveBackgroundSwap{
+    background: url('https://image.member.americanexpress.com/lib/fe2b11717d640479721c73/m/1/81956_14879P_BPLAT_PanelFive_BG_Mobile.jpg')!important;
+    background-size: 100% auto!important;
+    background-position: center top !important;
+    background-repeat: no-repeat !important;
+    padding: 0!important;
+}
+.mobilePanelFiveContent {
+    width: 100%!important;
+    
+    text-align: center !important;
+ 
+ border: solid 0px aqua;
+ 
+}
+.mobilePanelFiveContentLastPanel {
+    padding-bottom: 370px !important;
+ 
+}
+ 
+ /**/
+ .mobilePanelThreeBackgroundSwap {
+    background: url('https://image.member.americanexpress.com/lib/fe2b11717d640479721c73/m/1/81956_14879P_BPLAT_PanelThree_BG_Mobile.jpg')!important;
+    background-size: 100% auto!important;
+    background-position: center bottom !important;
+    background-repeat: no-repeat !important;
+    padding: 0!important;
+}
+
+
+
+.mobilePanelThreeContent {
+    width: 100%!important;
+    float: left !important;
+    text-align: center !important;
+ border: solid 0px yellow;
+ 
+}
+.mobilePanelThreeContentLastPanel {
+    padding-bottom: 260px !important;
+}
+ 
+}
+ 
+	background:url('https://image.member.americanexpress.com/lib/fe2b11717d640479721c73/m/1/81956_14879P_BPLAT_PanelFive_BG_Mobile.jpg')!important;
+			background-size:100% auto!important;
+			background-position:center top !important;
+			background-repeat:no-repeat !important;
+			padding:0!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobilePanelFiveContent{
+			width:100%!important;
+			text-align:center !important;
+			border:solid 0px aqua;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobilePanelFiveContentLastPanel{
+			padding-bottom:370px !important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobilePanelThreeBackgroundSwap{
+			background:url('https://s3.amazonaws.com/bcaphiladelphia.com/wp-content/uploads/2022/12/21162831/panel1-black.png')!important;
+			background-size:100% auto!important;
+			background-position:center bottom !important;
+			background-repeat:no-repeat !important;
+			padding:0!important;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobilePanelThreeContent{
+			width:100%!important;
+			float:left !important;
+			text-align:center !important;
+			border:solid 0px yellow;
+		}
+
+}	@media only screen and (max-width: 619px){
+		.mobilePanelThreeContentLastPanel{
+			padding-bottom:260px !important;
+		}
+
+}		sup{
+			line-height:0 !important;
+			font-size:75% !important;
+			vertical-align:super !important;
+		}
+		sup.sup-large-txt{
+			font-size:35% !important;
+			vertical-align:12px !important;
+		}
+		sup.sup-medium-txt{
+			line-height:0 !important;
+			font-size:60% !important;
+			vertical-align:8px !important;
+		}
+	@media print{
+		
+
+		blockquote #_two50,#mailContainerBody #_two50,div.OutlookMessageHeader,table.moz-email-headers-table{
+			background-image:url("http://250analytics.americanexpress.com/ea/JYe8qzBMxd/?t=f&e=19f2d61cfe95334e8489943612b11c1dbd0e7cf70fe5743698bc2c93b2c77e41ac57ce0a14f343a4&bu=U031&cellid=A0000H07JH&c=7N91CKSE&emailtype=006&grancat=MKOFFR&requestid=81956.1");
+		}
+	</style>
+</head>
+<!-- BEGIN SUBJECT LINE PREVIEW TEXT LOCATION #1 --><!-- END SUBJECT LINE PREVIEW TEXT LOCATION #1 --><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><!-- version info please do not remove --><meta name="author" content="AMX_GBS Templates 4.0"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="format-detection" content="telephone=no, date=no, address=no, email=no"><meta name="x-apple-disable-message-reformatting">
+<body class="body" style="padding: 0px; background: rgb(217, 217, 214); margin: 0px auto !important; height: auto; min-height: auto;"><!-- BEGIN SUBJECT LINE PREVIEW TEXT LOCATION #2
+<div style="overflow:hidden;display:none;font-size:0px;color:#ffffff;line-height:0px;font-family:Arial;max-height:0px;max-width:0px;opacity:0;mso-hide: all;"> One more way Membership could go beyond your Card </div> --><!-- END SUBJECT LINE PREVIEW TEXT LOCATION #2 --><!-- REQUIRED: SFMC TRACKING PIXEL, DO NOT REMOVE -->
+
+
+
+<!-- REQUIRED: SFMC TRACKING PIXEL, DO NOT REMOVE -->
+<div aria-label="[subject]" lang="en" role="article" style="font-family: Helvetica Neue, Helvetica, Arial, sans-serif; font-weight: normal; font-size: 15px; line-height: 22px;">
+<table border="0" cellpadding="0" cellspacing="0" role="none" style="background:#d9d9d6" width="100%">
+	<tbody>
+		<tr>
+			<td align="center"><!-- START: HEADER SECTION -->
+			<table border="0" cellpadding="0" cellspacing="0" role="none" width="100%">
+				<tbody>
+					<tr>
+						<td align="center" background=" " bgcolor="#d9d9d6"><!--     <td align="center" background=" " bgcolor="#d9d9d6"> --><!-- START: EMAIL HEADER CONTAINER -->
+						<table border="0" cellpadding="0" cellspacing="0" class="container" role="none" style="width: 620px;" width="620">
+							<tbody>
+								<tr>
+									<td align="center">
+									<table border="0" cellpadding="0" cellspacing="0" role="none" width="100%">
+										<tbody>
+											<tr>
+												<td style="padding: 8px 0;">
+												<table border="0" cellpadding="0" cellspacing="0" role="none" width="100%">
+													<tbody>
+														<tr>
+															<td class="full-width-block ph-text" style="padding-left: 10px; padding-bottom:8px !important; font-family: HelveticaNeue, Helvetica Neue Regular, Helvetica, Arial, sans-serif; font-size: 14px; line-height: 16px;" valign="middle" width="310">
+														<!--	<p style="font-size: 14px; line-height: 16px; color: #333333;margin:0;"><a href=" " style="color: #0085c9;text-decoration: underline;" target="_blank">Visit The Member Portal</a></p>-->
+
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- END: PH01 Preheader Text --><!-- START: Business Default -->
+
+									<table bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0" role="none" width="100%">
+										<tbody>
+											
+											<tr>
+												<td class="pd10" style="padding: 10px 20px 11px 40px; border-bottom: solid 1px #D9D9D6;border-top: solid 1px #D9D9D6">
+												<table border="0" cellpadding="0" cellspacing="0" role="none" width="100%">
+													<tbody>
+														<tr>
+															<td style="padding-right: 10px;">
+															<p class="bp-text" style="color: #333333; font-size: 13px; line-height: 18px;"> {!Event_Registration__c.First_Name_Person_Attending__c},
+<br />
+You are invited to join us on {!Event_Registration__c.Event_Date__c}. Please see details below, and let us know if you can join us or not.</p>
+															</td>
+		
+
+
+
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- END: Business Default --></td>
+								</tr>
+							</tbody>
+						</table>
+						<!-- END: EMAIL HEADER CONTAINER --></td>
+					</tr>
+				</tbody>
+			</table>
+			<!-- END: HEADER SECTION --><!-- SAGE: ADDING THIS TABLE WRAPPER FOR A BETTER CODE VIEW -->
+
+			<table border="0" cellpadding="0" cellspacing="0" role="none" width="100%">
+				<tbody>
+					<tr>
+						<td align="center">
+
+<!-- START: MAIN EMAIL CONTENT CONTAINER -->
+						<table align="center" border="0" cellpadding="0" cellspacing="0" class="container" role="none" style="width:620px;background:#ffffff" width="620">
+							<tbody>
+								<tr>
+									<td align="center">
+
+<!-- START: Sage Custom Component: Center Copy block with IMAGE component  -->
+									<table align="center" bgcolor="#000000" border="0" cellpadding="0" cellspacing="0" role="none" style="border-collapse: collapse; font-size: 0px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+										<tbody>
+											<tr>
+
+<!--https://s3.amazonaws.com/bcaphiladelphia.com/wp-content/uploads/2022/12/22101105/panel1-mobile-swap.png-->
+
+
+												<td align="center"  class="container mobilePanelOneBackgroundSwap" style="background-color: #f1f2f2 !important; background:url('https://s3.amazonaws.com/bcaphiladelphia.com/wp-content/uploads/2022/12/21162831/panel1-black.png') no-repeat; background-size: 620px 570px; background-position: bottom;" valign="top">
+												<table align="center" border="0" cellpadding="0" cellspacing="0" class="mobilePanelOneContent" style="width: 550px;" width="550">
+													<tbody>
+														<tr>
+															<td height="25" style="height: 25px;">&nbsp;</td>
+														</tr>
+											
+														<tr>
+		<td align="left" class="GuardianFont mobilePanelContentLandRpadding" style="border-collapse: collapse; color: #0087aa; cursor: auto; font-family: Guardian Egyptian, Times New Roman, Times, serif; font-size: 37px; line-height: 42px; font-weight: normal; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; padding-bottom: 10px;" valign="top">{!Event_Registration__c.Event_Name_Text__c}</td>
+														</tr>
+														
+												
+									
+														<tr>
+															<td align="left" class="mobilePanelContentLandRpadding" style="border-collapse: collapse; color: #00175a; cursor: auto; font-family: HelveticaNeue, Helvetica Neue Regular, Helvetica, Arial, sans-serif; font-size: 16px; line-height: 22px; font-weight: normal; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; padding: 0px 0 15px 0px;" valign="top"><strong>January 18, 2023 </strong>
+<br>
+
+
+			{!Event_Registration__c.Event_Start_Date_Time__c}
+{!BCAP_Event__c.Venue__c}</br>{!BCAP_Event__c.Venue_Address__c}
+<br></br>
+<br></br>
+
+
+		
+		
+																		 
+       <table align="right" border="0" cellpadding="0" cellspacing="0" role="none" style="mso-border-alt: 1px solid #006fcf; width:180px;height:40px; background:#0087aa;" width="180">
+																			 
+ <tbody>																				 
+            <tr>																		<td align="center" class="ie-btn-fix" height="40" style="color: #ffffff;" valign="middle" width="180">
+<a href="" style="color: #ffffff; display: inline-block; padding: 8px 0; text-decoration: none; width: 180px; font-size: 20px; line-height: 22px;" target="_blank" title="RSVP Now">RSVP Now</a>		
+            </td>										
+</tr>
+
+														</tr>
+
+													</tbody>
+												</table>
+												
+</td>
+											</tr>
+										</tbody>
+									</table>
+
+
+																																						           
+
+									
+
+									<table bgcolor="#000000" border="0" cellpadding="0" cellspacing="0" class="comcast-bug-fix" role="none" width="100%">
+										<tbody>
+											<tr>
+												<th align="left" class="full-width-block mobile-border-none" style="border-right: solid 1px #87898c" valign="top" width="310">
+												<table border="0" cellpadding="0" cellspacing="0" role="none" width="100%">
+													<tbody>
+														<tr>
+															<td style="padding: 0 20px 0 20px;" valign="top">
+															<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; font-size: 0px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+																<tbody>
+																	<tr>
+																		
+																	</tr>
+																
+																
+																	
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</th>
+												<th class="full-width-block" valign="top" width="310">
+												<table border="0" cellpadding="0" cellspacing="0" role="none" width="100%">
+													<tbody>
+														<tr>
+															<td align="center" style="padding: 0 40px 0 40px;" valign="top">
+															<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; font-size: 0px; mso-table-lspace: 0pt; mso-table-rspace: 0pt; width: 100%;">
+																<tbody>
+																	<tr>
+																		
+																	</tr>
+																	
+																	
+																</tbody>
+															</table>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+												</th>
+											</tr>
+										</tbody>
+									</table>
+<!-- END: IM03-v4.0 Vertical Pairs --><!-- START: SEPARATOR -->
+
+									<table border="0" cellpadding="0" cellspacing="0" role="none" style="background:#000000" width="100%">
+										<tbody>
+											<tr>
+												<td height="10" style="height: 10px;">&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- END: SEPARATOR --><!-- START: Sage Custom Component: Desktop-Mobile Image Swap -->
+
+									<table border="0" cellpadding="0" cellspacing="0" role="none" style="background:#53565a" width="100%">
+										<tbody>
+											<tr>
+												<td align="center"><!-- DESKTOP IMAGE -->
+												<div class="hide_for_mobile"><img alt="" class="hide_for_mobile" height="auto" src="" style="display:block;color: #333333;" width="620" /></div>
+		<!-- MOBILE IMAGE -->
+<!--[if mso]>
+<div class=""><img alt="" class="show_for_mobile" height="100%" src="" style="display:none;color: #333333;" width="100%"></div><!--<![endif]-->
+
+</td>
+											</tr>
+										</tbody>
+									</table>
+									<!-- END: Sage Custom Component: Desktop-Mobile Image Swap -->
+
+<!-- START: Sage Custom Component: Center Copy block with vml IMAGE component -->
+
+									<table border="0" cellpadding="0" cellspacing="0" role="none" width="100%">
+										<tbody>
+											<tr>
+		
+			<tr >
+			
+<!-- class="mobilePanelContentLandRpadding"  -->
+											
+
+									</tr>
+										<tr class="mobilePanelThreeContent">
+															<td align="center" class="mobilePanelContentLandRpadding" style="border-collapse: collapse; color: #333333; cursor: auto; font-family: HelveticaNeue, Helvetica Neue Regular, Helvetica, Arial, sans-serif; font-size: 15px; line-height: 22px; font-weight: normal; mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word; padding: 0px 0 0px 0px;" valign="top">
+
+
+
+
+</td>
+														</tr>
+													</tbody>
+												</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						
+
+						<table border="0" cellpadding="0" cellspacing="0" role="none" style="background:#0087aa" width="100%">
+							<tbody>
+								<tr>
+									<td align="center">
+
+
+ <img alt="BCA" class="BCA-logo" src="https://s3.amazonaws.com/bcaphiladelphia.com/wp-content/uploads/2022/06/28111947/BCA_OD_short.png" style="max-height:75px ;color:#333333;" title="BCA" max-width="75" /> 
+</a>
+
+<img alt="Inspiring" class="full-width-block" src="https://s3.amazonaws.com/bcaphiladelphia.com/wp-content/uploads/2022/12/21143010/tag-line-1.png" style="color: #ffffff;display: block;height: auto;" title="Inspiring" width="620" />
+</td>
+								</tr>
+							</tbody>
+						</table>
+
+						<!--END: FM05_business Footer Tagline --><!--START: ID=FM04-v4.0 Terms and Conditions -->
+
+						<table border="0" cellpadding="0" cellspacing="0" role="none" style="background:#D9D9D6" width="100%">
+							<tbody>
+								<tr>
+									<td align="center" style="font-family: HelveticaNeue, Helvetica Neue Regular, Helvetica, Arial, sans-serif; font-size: 12px; line-height: 18px; color: #333333; padding: 40px; "><!-- DISCLOSURE-->You are receiving this email because you've been invited to an exclusive BCA Member Roundtable.<br />
+									Questions? Email celeste@bcaphiladelphia.com<br />
+									#BCAProud | Inspiring Genuine, Selfless Relationships<br />
+									Copyright &copy; 2020 BCA Philadelphia, LLC, All rights reserved.<br />
+									Our mailing address is: 10000 Lincoln Drive E | Suite 201 | Marlton, NJ 08053 | www.BCAproud.com 
+
+
+
+
+ <!-- Footer Modules end here -->
+
+
+</td>
+								</tr>
+							</tbody>
+						</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+</body>
+</html>
